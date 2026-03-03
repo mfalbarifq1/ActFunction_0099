@@ -18,4 +18,9 @@ float Luas Persegi(){
 void Output O (){
     cout << "Hasilnya = " <<< LuasPersegi();
 }
-
+// program utama
+int main()
+{
+Input();
+Output();
+}
