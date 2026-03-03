@@ -11,6 +11,9 @@ void Input(){
     cin >> l;
 }
 
+float Luas Persegi(){
+    return p*l;
+}
 
 
 
