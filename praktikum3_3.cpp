@@ -18,3 +18,9 @@ float LuasPersegi(float x, float y){
 void output (){
     cout << "Hasilnya = " << LuasPersegi();
 }
+//program utama
+int main() 
+{//start
+    Input();
+    output();
+}//selesai
