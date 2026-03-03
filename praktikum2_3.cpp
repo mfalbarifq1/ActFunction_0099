@@ -15,5 +15,7 @@ float Luas Persegi(){
     return p*l;
 }
 
-
+void Output O (){
+    cout << "Hasilnya = " <<< LuasPersegi();
+}
 
